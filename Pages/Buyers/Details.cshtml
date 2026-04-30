@@ -1,54 +1,27 @@
 ﻿@page
 @model BookStore.Pages.Buyers.DetailsModel
 @{
+    ViewData["Title"] = "Информация о покупателе";
 }
-<div class="row justify-content-center">
-    <div class="col-md-8 col-lg-6">
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-sm border-info">
+                <div class="card-header bg-info bg-opacity-10 border-info">
+                    <h3 class="mb-0 text-info">Информация о покупателе</h3>
+                </div>
+                <div class="card-body">
+                    <div class="bg-secondary bg-opacity-10 p-3 rounded">
+                        <p class="mb-3"><strong>Фамилия:</strong> @Model.Buyer.LastName</p>
+                        <p class="mb-3"><strong>Email:</strong> @Model.Buyer.Email</p>
+                        <p class="mb-0"><strong>Телефон:</strong> @(string.IsNullOrEmpty(Model.Buyer.Phone) ? "—" : Model.Buyer.Phone)</p>
+                    </div>
 
-        <div class="card shadow-sm mt-4">
-            <div class="card-header" style="background-color: #6f42c1; color: white;">
-                <h5 class="mb-0">Информация о пользователе</h5>
-            </div>
-
-            <div class="card-body">
-
-                <dl class="row mb-0">
-                    <dt class="col-sm-4">Фамилия</dt>
-                    <dd class="col-sm-8">@Model.Buyer.LastName</dd>
-
-                    <dt class="col-sm-4">Email</dt>
-                    <dd class="col-sm-8">@Model.Buyer.Email</dd>
-
-                    <dt class="col-sm-4">Телефон</dt>
-                    <dd class="col-sm-8">
-                        @(string.IsNullOrEmpty(Model.Buyer.Phone)
-                                                ? "—"
-                                                : Model.Buyer.Phone)
-                    </dd>
-                </dl>
-
-            </div>
-
-            <div class="card-footer d-flex justify-content-between">
-                <a asp-page="Index" class="btn btn-outline-primary">
-                    Назад
-                </a>
-
-                <div>
-                    <a asp-page="Edit"
-                       asp-route-id="@Model.Buyer.Id"
-                       class="btn btn-outline-success">
-                        Редактировать
-                    </a>
-
-                    <a asp-page="Delete"
-                       asp-route-id="@Model.Buyer.Id"
-                       class="btn btn-outline-danger">
-                        Удалить
-                    </a>
+                    <div class="mt-4">
+                        <a asp-page="Index" class="btn btn-outline-secondary">Назад</a>
+                    </div>
                 </div>
             </div>
         </div>
-
     </div>
 </div>
