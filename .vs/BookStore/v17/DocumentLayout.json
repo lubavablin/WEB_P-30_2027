@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\bookstoretest\\pages\\booksindextests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:bookstoretest\\pages\\booksindextests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\migrations\\20260304181521_initalcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:migrations\\20260304181521_initalcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\model\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:model\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\obj\\Debug\\net9.0\\BookStore.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net9.0\\BookStore.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\migrations\\20260304181521_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:migrations\\20260304181521_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\bookstore\\obj\\debug\\net9.0\\bookstore.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:bookstore\\obj\\debug\\net9.0\\bookstore.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\bookstore\\obj\\debug\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:bookstore\\obj\\debug\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\bookstoretest\\pages\\bookcreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:bookstoretest\\pages\\bookcreatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\bookstoretest\\models\\buyertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:bookstoretest\\models\\buyertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\bookstoretest\\models\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:bookstoretest\\models\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\bookstoretest\\data\\applicationdbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:bookstoretest\\data\\applicationdbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|c:\\users\\user\\source\\repos\\web_p-30_2027pomogitee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7439C7E9-6895-42C5-8CDB-E8D2AA23A114}|BookStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260304181521_InitalCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Migrations\\20260304181521_InitalCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260304181521_InitalCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Migrations\\20260304181521_InitalCreate.Designer.cs",
+              "RelativeToolTip": "Migrations\\20260304181521_InitalCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:25.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Model\\Buyer.cs",
+              "RelativeDocumentMoniker": "Model\\Buyer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Model\\Buyer.cs",
+              "RelativeToolTip": "Model\\Buyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:24.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA1wBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:17.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookStore.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\obj\\Debug\\net9.0\\BookStore.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net9.0\\BookStore.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\obj\\Debug\\net9.0\\BookStore.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net9.0\\BookStore.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:16.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:13.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksIndexTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStoreTest\\Pages\\BooksIndexTests.cs",
+              "RelativeDocumentMoniker": "BookStoreTest\\Pages\\BooksIndexTests.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStoreTest\\Pages\\BooksIndexTests.cs",
+              "RelativeToolTip": "BookStoreTest\\Pages\\BooksIndexTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAApwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:05.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260304181521_InitalCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Migrations\\20260304181521_InitalCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260304181521_InitalCreate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Migrations\\20260304181521_InitalCreate.cs",
+              "RelativeToolTip": "Migrations\\20260304181521_InitalCreate.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:11.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:09.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookStore.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStore\\obj\\Debug\\net9.0\\BookStore.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BookStore\\obj\\Debug\\net9.0\\BookStore.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStore\\obj\\Debug\\net9.0\\BookStore.AssemblyInfo.cs",
+              "RelativeToolTip": "BookStore\\obj\\Debug\\net9.0\\BookStore.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:08.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStore\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "BookStore\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStore\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "BookStore\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:06.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookCreateTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStoreTest\\Pages\\BookCreateTests.cs",
+              "RelativeDocumentMoniker": "BookStoreTest\\Pages\\BookCreateTests.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStoreTest\\Pages\\BookCreateTests.cs",
+              "RelativeToolTip": "BookStoreTest\\Pages\\BookCreateTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:03.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuyerTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStoreTest\\Models\\BuyerTests.cs",
+              "RelativeDocumentMoniker": "BookStoreTest\\Models\\BuyerTests.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStoreTest\\Models\\BuyerTests.cs",
+              "RelativeToolTip": "BookStoreTest\\Models\\BuyerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:02.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStoreTest\\Models\\BookTests.cs",
+              "RelativeDocumentMoniker": "BookStoreTest\\Models\\BookTests.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStoreTest\\Models\\BookTests.cs",
+              "RelativeToolTip": "BookStoreTest\\Models\\BookTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:06:00.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStoreTest\\Data\\ApplicationDbContextTests.cs",
+              "RelativeDocumentMoniker": "BookStoreTest\\Data\\ApplicationDbContextTests.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\BookStoreTest\\Data\\ApplicationDbContextTests.cs",
+              "RelativeToolTip": "BookStoreTest\\Data\\ApplicationDbContextTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:05:58.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pomogitee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T16:05:51.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
