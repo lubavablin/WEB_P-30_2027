@@ -1,0 +1,48 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Магазин книг";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <h1 class="display-4 mb-4">Добро пожаловать в книжный магазин!</h1>
+            <p class="lead mb-5">Управляйте ассортиментом книг, авторами и покупателями</p>
+
+            <div class="row g-4 mt-3">
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <a asp-page="/Books/Index" class="btn btn-primary btn-lg w-100">Книги</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <a asp-page="/Authors/Index" class="btn btn-primary btn-lg w-100">Авторы</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <a asp-page="/Buyers/Index" class="btn btn-primary btn-lg w-100">Покупатели</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="card h-100 shadow-sm">
+                        <div class="card-body text-center">
+                            <a asp-page="/Chat" class="btn btn-primary btn-lg w-100">Чат</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
