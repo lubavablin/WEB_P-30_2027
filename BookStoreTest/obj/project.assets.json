@@ -3906,11 +3906,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pizda\\BookStoreTest\\BookStoreTest.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027\\BookStoreTest\\BookStoreTest.csproj",
       "projectName": "BookStoreTest",
-      "projectPath": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pizda\\BookStoreTest\\BookStoreTest.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027\\BookStoreTest\\BookStoreTest.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pizda\\BookStoreTest\\obj\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\WEB_P-30_2027\\BookStoreTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3931,8 +3931,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pizda\\BookStore\\BookStore.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027pizda\\BookStore\\BookStore.csproj"
+            "C:\\Users\\user\\source\\repos\\WEB_P-30_2027\\BookStore\\BookStore.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\WEB_P-30_2027\\BookStore\\BookStore.csproj"
             }
           }
         }
@@ -3998,7 +3998,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
